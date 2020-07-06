@@ -1,6 +1,12 @@
 # vue-quasar-crud-generator
 A schema-based crud generator component for Vue.js  with Quasar Framework.
 
+## This repository isn't working very well contribute to this project 
+### Todo List
+
+1- The component is not reactive, we need to pass the model name on the schema, and the form component and the list have to access and change these states
+2- Other features are welcome
+
 Dependencies
 We use axios - Promise based HTTP client
 
