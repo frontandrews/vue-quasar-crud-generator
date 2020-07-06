@@ -1,0 +1,46 @@
+{
+  "departamentos": [
+    {
+      "id": 1,
+      "name": "Contábil",
+      "rowIndex": ""
+    },
+    {
+      "id": 2,
+      "name": "teste",
+      "rowIndex": ""
+    },
+    {
+      "id": 3,
+      "name": "asdasd",
+      "rowIndex": ""
+    },
+    {
+      "id": 4,
+      "name": "",
+      "rowIndex": ""
+    }
+  ],
+  "setores": [
+    {
+      "id": 1,
+      "id_departament": 1,
+      "name": "geral"
+    },
+    {
+      "id": 2,
+      "id_departament": 2,
+      "name": "geral"
+    },
+    {
+      "id": 3,
+      "id_departament": 3,
+      "name": "geral"
+    },
+    {
+      "id": 4,
+      "id_departament": 3,
+      "name": "implantação"
+    }
+  ]
+}
